@@ -8,7 +8,7 @@ public class movebyjoystick : MonoBehaviour
     public float horizontalMove = 0f;
     public float verticalMove = 0f;
     public Joystick joystick;
-    readonly int m_speed = 3;
+    readonly int m_speed = 8;
 
     [SerializeField]
      // Start is called before the first frame update
